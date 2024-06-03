@@ -1,3 +1,5 @@
+import ObjectsAndMore.Equipment;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -84,4 +86,3 @@ public class Character {
         return equipment;
     }
 }
-
